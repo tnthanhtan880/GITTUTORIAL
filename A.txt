@@ -1,3 +1,5 @@
 Nguyen Tran Thanh Tan ISV
 
 Project managerment of ISV
+
+Sua chua o server
